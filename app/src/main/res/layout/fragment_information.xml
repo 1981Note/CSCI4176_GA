@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PostFragment" >
+    <TextView
+        android:id="@+id/titleText"
+        android:text="Title"
+        android:textSize="20dp"
+        android:layout_width="380dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:id="@+id/priceText"
+        android:text="Price"
+        android:textSize="15dp"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:id="@+id/description"
+        android:text="Description"
+        android:textSize="15dp"
+        android:layout_width="390dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="10dp"
+        />
+
+    <Button
+        android:id="@+id/rentButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rent This Place"
+        android:layout_marginTop="570dp"
+        android:layout_marginLeft="20dp"
+        />
+
+    <Button
+        android:id="@+id/chatbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chat"
+        android:layout_marginTop="570dp"
+        android:layout_marginLeft="300dp"
+        />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go Back"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        />
+
+</FrameLayout>

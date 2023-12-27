@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">rental</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="postType">
+        <item>Choose Posting Type</item>
+        <item>Post A House</item>
+        <item>Post An Apartment</item>
+        <item>Looking For A Roommate</item>
+        <item>Post Furniture</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
