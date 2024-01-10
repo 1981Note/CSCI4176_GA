@@ -6,6 +6,9 @@ Rental Application
 ## Description
 For our application our group is proposing to create a rental application for the city of Halifax. This is part of our effort to help alleviate the pressure tenants face during the housing crisis. 
 
+## Prototype
+https://www.figma.com/file/bGP7Iin2kr0ON3onmW6e92/4176?type=design&node-id=0%3A1&mode=design&t=9mY4Fxe3tZt4czau-1
+
 ## Usage
 Users can sign up and login to post apartments, post houses, find a roommate, post unwanted furniture
 
